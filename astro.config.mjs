@@ -7,7 +7,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://razxssd.github.io',
-  base: '/ValentineWebsite',
+  base: '/elo_valentine_day_2026',
   integrations: [react()],
 
   vite: {
